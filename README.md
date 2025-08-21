@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Rakshitha Devadiga  
 
-<!--
-**Rakshitha0711/Rakshitha0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Developer | 📊 AIML Intern  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C++, Java, HTML, CSS  
+- MySQL, Data Analytics  
+- Machine Learning & AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Smart City Project  
+- Heart Disease Prediction (ML)  
+- VTU Question Paper Recommendation System  
+
+## 🌐 Connect with me
+[LinkedIn](YOUR_LINKEDIN_LINK) | [GitHub](https://github.com/RakshithaDevadiga) | 📧 Email: yourmail@example.com
