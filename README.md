@@ -13,4 +13,4 @@
 - VTU Question Paper Recommendation System  
 
 ## 🌐 Connect with me
-[LinkedIn](YOUR_LINKEDIN_LINK) | [GitHub](https://github.com/RakshithaDevadiga) | 📧 Email: yourmail@example.com
+[LinkedIn](YOUR_LINKEDIN_LINK) | [GitHub](https://github.com/RakshithaDevadiga) | 📧 Email: rakshithadevadiga711@gmail.com
